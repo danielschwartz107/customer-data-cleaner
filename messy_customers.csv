@@ -1,0 +1,133 @@
+Customer ID,first name,LAST NAME,Email ,phone,State,signup_date,Total Spent
+C0017,sofia,kim,sofia.kim17@outlook.com,(255) 889-2612,TX,2024-04-07,"$1,347.67"
+C0034,sofia,patel ,  SOFIA.PATEL34@Yahoo.com ,1-508-615-9977,new york,27.04.2025,USD 1112.84
+C0065,James ,chen,  JAMES.CHEN65@Yahoo.com ,(494) 648-8941,NY,3/10/2026,"$1,387.34"
+C0030,James , o'brien,james.obrien30@gmail.com,397-608-6378,california,"Jun 21, 2025"," 1,703.60 "
+C0075,li,Johnson,li.johnson75@gmail.com,+1 652 553 5901,texas,19.05.2026," 2,498.44 "
+C0101,carlos,kim,  CARLOS.KIM101@OUTLOOK.COM ,1-570-290-8155,NY,10/13/2025,998.48
+C0001,MARIA,smith,maria.smith1@outlook.com,+1 450 428 3286,Washington,10/14/2024,$89.05
+C0117,Ahmed,patel ,ahmed.patel117@gmail.com,1-493-683-3273,wa,10/1/2025,$62.22
+C0116,James ,kim,james.kim116@outlook.com,227.624.1872,TX,20.07.2024,
+C0054,Ahmed,patel ,ahmed.patel54@gmail.com,925-746-3073,CA,2026-05-23," 1,600.11 "
+C0089,noah,rossi,  NOAH.ROSSI89@Yahoo.com ,(310) 702-8267,california,10/5/2025,USD 328.59
+C0114,noah,kim,noah.kim114@outlook.com,9965919239,Calif.,14.10.2024," 1,608.33 "
+C0032,sofia,lopez,sofia.lopez32@gmail.com,(245) 925-8144,Washington,2026-12-24,$920.09
+C0085,MARIA,kim,maria.kim85@gmail.com,(417) 857-1349,TX,2024-03-26, 185.50 
+C0073,john,smith,john.smith73@gmail.com,257.500.6873,Calif.,2024-09-14,$437.41
+C0031,Ahmed,smith,ahmed.smith31@gmail.com,(467) 382-5349,texas,26.12.2025,1521.43
+C0022,Emma,khan,emma.khan22gmail.com,409-885-6147,texas,27.11.2024, 800.70 
+C0058,MARIA,patel ,maria.patel58@gmail.com,661-905-8699,NY,"Dec 10, 2025",$191.88
+C0049,carlos,chen,carlos.chen49@gmail.com,1-451-288-5569,NY,"Oct 20, 2025",850.95
+C0015,Emma, o'brien,  EMMA.OBRIEN15@Yahoo.com ,207-272-1964,CA,2025-02-17,707.02
+C0099,li,khan,li.khan99@gmail.com,709-964-8055,texas,15.12.2026," 1,001.72 "
+C0119,carlos,kim,carlos.kim119@gmail.com,(711) 811-9782,Washington,2026-04-23,$738.81
+C0036,john, o'brien,john.obrien36gmail.com,8259862193,NY,"Dec 13, 2026","$1,008.14"
+C0096, priya,smith,priya.smith96@gmail.com,743.420.7163,TX,15.06.2024,"$2,210.11"
+C0013,MARIA,kim,maria.kim13@outlook.com,(978) 745-3060,wa,"Mar 9, 2026",
+C0094,Emma,khan,  EMMA.KHAN94@GMAIL.COM ,1-485-787-4705,Washington,10/22/2026,USD 1528.35
+C0009,noah,GARCIA,  NOAH.GARCIA9@OUTLOOK.COM ,1-312-356-3621,texas,"Feb 13, 2026",1495.78
+C0063, priya,khan,  PRIYA.KHAN63@Yahoo.com ,1-707-495-7561,Washington,21.08.2024,free
+C0111,li,patel ,li.patel111gmail.com,549-984-8967,Calif.,2/10/2024,1276.61
+C0008, priya,chen,priya.chen8@gmail.com,962-774-9830,texas,2026-07-12,"$2,493.35"
+C0074,sofia,lopez,sofia.lopez74@outlook.com,709-797-3344,new york,5/22/2025,2248.79
+C0112,Emma,smith,emma.smith112@outlook.com,9848323147,Calif.,2024-03-27,"$1,807.14"
+C0080,James ,rossi,james.rossi80gmail.com,1-770-574-2479,CA,"Sep 4, 2025", 930.94 
+C0098,carlos,kim,  CARLOS.KIM98@Yahoo.com ,515.246.4612,CA,2024-04-10," 1,921.86 "
+C0010,li,Johnson,li.johnson10@outlook.com,+1 211 896 2876,Washington,11/11/2025,$744.35
+C0002,Emma,lopez,emma.lopez2@gmail.com,403.933.9928,wa,5/26/2026,"$1,900.64"
+C0071,MARIA,kim,maria.kim71@outlook.com,+1 471 546 7512,TX,28.09.2026,"$2,182.87"
+C0095,li,smith,li.smith95@gmail.com,N/A,TX,2024-03-28,1422.31
+C0068,li,smith,li.smith68@gmail.com,1-505-801-9022,wa,25.08.2026,1146.53
+C0103, priya, o'brien,priya.obrien103@gmail.com,+1 462 402 3842,california,"Nov 16, 2024"," 1,889.80 "
+C0079,Emma,khan,  EMMA.KHAN79@Yahoo.com ,N/A,wa,16.12.2025,"$1,178.80"
+C0094,Emma,khan,emma.khan94@gmail.com,1-485-787-4705,Washington,10/22/2026,USD 1528.35
+C0004,Emma,GARCIA,emma.garcia4gmail.com,1-587-280-5803,TX,4/23/2026,$128.87
+C0101,carlos,kim,carlos.kim101@outlook.com,1-570-290-8155,NY,10/13/2025,998.48
+C0113,Ahmed, o'brien,ahmed.obrien113gmail.com,825-491-8355,NY,2025-08-27,free
+C0069,James , o'brien,  JAMES.OBRIEN69@Yahoo.com ,(439) 994-7730,wa,2026-07-13,"$1,245.89"
+C0110,MARIA,chen,  MARIA.CHEN110@Yahoo.com ,+1 858 536 3093,Washington,"Nov 22, 2024","$1,278.59"
+C0082,noah,chen,noah.chen82@outlook.com,N/A,new york,2025-02-04,"$2,219.84"
+C0047,James ,GARCIA,james.garcia47@outlook.com,1-508-900-2983,CA,15.09.2025,1272.31
+C0003,sofia,khan,sofia.khan3@gmail.com,(420) 981-6514,texas,21.06.2024," 2,020.71 "
+C0053,MARIA, o'brien,maria.obrien53@gmail.com,960-748-4033,wa,16.12.2025,2084.08
+C0048,sofia,kim,  SOFIA.KIM48@GMAIL.COM ,+1 570 850 8532,texas,28.12.2024," 1,170.21 "
+C0109,carlos,patel ,carlos.patel109@gmail.com,N/A,new york,"Dec 22, 2026",USD 335.44
+C0045,James ,smith,  JAMES.SMITH45@Yahoo.com ,+1 444 329 8758,NY,18.12.2025,free
+C0076,MARIA, o'brien,  MARIA.OBRIEN76@Yahoo.com ,,new york,13.11.2024,USD 1421.33
+C0028,James ,GARCIA,james.garcia28@gmail.com,N/A,NY,3/14/2024,
+C0118, priya,Johnson,priya.johnson118gmail.com,(823) 740-7934,new york,5/4/2024,USD 607.52
+C0039,li,Johnson,  LI.JOHNSON39@Yahoo.com ,(444) 481-8206,new york,15.05.2024,$358.86
+C0029,sofia, o'brien,sofia.obrien29@gmail.com,1-918-310-7267,wa,"Apr 27, 2024", 883.90 
+C0020,john,lopez,john.lopez20@outlook.com,(262) 965-6138,wa,9/6/2026,"$2,402.54"
+C0019,James ,rossi,james.rossi19@outlook.com,,new york,"May 14, 2025",399.67
+C0087, priya,smith,priya.smith87@gmail.com,(443) 802-6304,new york,"Mar 24, 2024"," 1,322.32 "
+C0021, priya,GARCIA,  PRIYA.GARCIA21@Yahoo.com ,(891) 440-7615,NY,10/2/2026,USD 1056.77
+C0097,carlos,smith,carlos.smith97@outlook.com,4786537947,wa,5/7/2025,$872.75
+C0014,James ,chen,  JAMES.CHEN14@Yahoo.com ,887.865.7118,Washington,2025-02-08,$174.10
+C0042,noah,smith,  NOAH.SMITH42@Yahoo.com ,+1 884 895 7624,wa,10/18/2024,USD 2268.72
+C0050,Ahmed,patel ,  AHMED.PATEL50@YAHOO.COM ,563-464-6576,new york,2026-01-17,USD 227.75
+C0078,john,chen,john.chen78@outlook.com,+1 234 793 6977,california,"Jun 24, 2025",$451.47
+C0093,sofia,smith,sofia.smith93gmail.com,(814) 519-6761,Washington,"Mar 22, 2024",$572.25
+C0072,MARIA, o'brien,  MARIA.OBRIEN72@Yahoo.com ,494.432.2480,california,12/28/2026,USD 1117.54
+C0055,MARIA,smith,  MARIA.SMITH55@Yahoo.com ,680.690.8216,CA,8/4/2025,"$1,010.76"
+C0011,john,chen,john.chen11gmail.com,N/A,new york,2026-09-20, 394.81 
+C0031,Ahmed,smith,  AHMED.SMITH31@GMAIL.COM ,(467) 382-5349,texas,26.12.2025,1521.43
+C0067,James ,kim,  JAMES.KIM67@Yahoo.com ,+1 592 395 9327,Calif.,"May 25, 2024", 859.59 
+C0120,Ahmed, o'brien,  AHMED.OBRIEN120@Yahoo.com ,3918802402,TX,9/18/2024,985.28
+C0077,john,lopez,john.lopez77@outlook.com,+1 493 994 4770,TX,17.11.2024,
+C0064,sofia,Johnson,sofia.johnson64@outlook.com,2018739889,CA,"Sep 12, 2024"," 1,569.14 "
+C0115,Emma,GARCIA,emma.garcia115@outlook.com,(728) 327-5670,Calif.,2025-08-17,"$2,080.15"
+C0003,sofia,khan,  SOFIA.KHAN3@GMAIL.COM ,(420) 981-6514,texas,21.06.2024," 2,020.71 "
+C0050,Ahmed,patel ,  AHMED.PATEL50@Yahoo.com ,563-464-6576,new york,2026-01-17,USD 227.75
+C0057,noah,chen,noah.chen57@outlook.com,+1 639 512 1986,california,15.11.2024,$405.29
+C0052,carlos,khan,  CARLOS.KHAN52@Yahoo.com ,,Washington,"Jun 23, 2025",$688.23
+C0056,john,patel ,john.patel56@gmail.com,,california,2026-07-20,1942.6
+C0048,sofia,kim,sofia.kim48@gmail.com,+1 570 850 8532,texas,28.12.2024," 1,170.21 "
+C0016,Emma,patel ,emma.patel16@outlook.com,784-790-8744,wa,4/4/2025,1652.57
+C0045,James ,smith,  JAMES.SMITH45@YAHOO.COM ,+1 444 329 8758,NY,18.12.2025,free
+C0043,john,GARCIA,john.garcia43@outlook.com,(338) 672-3977,texas,23.04.2025,1906.66
+C0084,li,smith,li.smith84@outlook.com,,TX,14.11.2024,"$1,004.38"
+C0007,john, o'brien,john.obrien7@outlook.com,(523) 610-5386,TX,"Nov 16, 2024",USD 2213.44
+C0046,MARIA,patel ,maria.patel46gmail.com,N/A,texas,12/7/2025," 1,486.36 "
+C0037,john,GARCIA,john.garcia37@outlook.com,4243809486,Washington,2024-02-15,USD 2006.52
+C0025,Emma,patel ,emma.patel25@gmail.com,819-415-6617,new york,8/9/2026,244.36
+C0033,Ahmed,lopez,  AHMED.LOPEZ33@GMAIL.COM ,3279375920,texas,17.07.2025,USD 491.72
+C0108,sofia,rossi,sofia.rossi108@outlook.com,1-895-812-1857,TX,"Jun 4, 2024", 721.11 
+C0033,Ahmed,lopez,ahmed.lopez33@gmail.com,3279375920,texas,17.07.2025,USD 491.72
+C0061,sofia,khan,  SOFIA.KHAN61@Yahoo.com ,,CA,5/19/2026,"$1,911.33"
+C0046,MARIA,patel ,  MARIA.PATEL46GMAIL.COM ,N/A,texas,12/7/2025," 1,486.36 "
+C0051,noah,Johnson,noah.johnson51@outlook.com,907.687.9041,CA,"May 8, 2024",1734.09
+C0066,MARIA,kim,maria.kim66gmail.com,N/A,new york,"Dec 9, 2026",free
+C0040, priya, o'brien,priya.obrien40@gmail.com,6175389890,CA,7/13/2024," 2,143.98 "
+C0041,sofia,kim,sofia.kim41@gmail.com,1-560-505-7389,texas,2026-12-24,"$1,228.25"
+C0096, priya,smith,  PRIYA.SMITH96@GMAIL.COM ,743.420.7163,TX,15.06.2024,"$2,210.11"
+C0106,john,kim,john.kim106@outlook.com,785.867.4084,wa,"Mar 2, 2026",
+C0102,Ahmed, o'brien,ahmed.obrien102@gmail.com,+1 372 278 9363,Washington,24.04.2026," 1,822.54 "
+C0006,MARIA,lopez,  MARIA.LOPEZ6@Yahoo.com ,746-946-5010,texas,2025-11-23," 1,716.27 "
+C0026,li,smith,li.smith26@gmail.com,989-333-5291,wa,12/14/2026,free
+C0038,Emma,lopez,emma.lopez38@gmail.com,973.653.9270,Washington,"Mar 24, 2025"," 1,133.42 "
+C0005,li,GARCIA,li.garcia5@outlook.com,3035895554,TX,2024-06-12,USD 1680.39
+C0059,li,lopez,li.lopez59@outlook.com,4026352880,Calif.,3/3/2025,427.32
+C0082,noah,chen,  NOAH.CHEN82@OUTLOOK.COM ,N/A,new york,2025-02-04,"$2,219.84"
+C0092, priya,kim,priya.kim92@gmail.com,(287) 295-8075,TX,16.09.2024," 1,035.86 "
+C0009,noah,GARCIA,noah.garcia9@outlook.com,1-312-356-3621,texas,"Feb 13, 2026",1495.78
+C0018, priya,chen,  PRIYA.CHEN18@Yahoo.com ,(277) 653-2604,Washington,2024-02-25,428.28
+C0104,noah,lopez,noah.lopez104@outlook.com,839-530-6179,california,21.08.2025,1484.68
+C0024, priya,kim,priya.kim24@outlook.com,(920) 509-9666,Washington,2025-11-04,
+C0081,li,lopez,  LI.LOPEZ81@Yahoo.com ,+1 853 580 2775,wa,20.10.2024,USD 1624.42
+C0062,Emma,kim,emma.kim62gmail.com,+1 385 799 8141,wa,"Aug 12, 2024",USD 843.27
+C0090,carlos,Johnson,carlos.johnson90@outlook.com,590-811-9692,Washington,7/4/2026,USD 2134.19
+C0060,carlos,chen,  CARLOS.CHEN60@Yahoo.com ,+1 679 905 5982,new york,"Sep 16, 2026",$214.90
+C0088,noah,kim,noah.kim88@outlook.com,7258072786,NY,27.01.2026,"$1,613.70"
+C0100,sofia,smith,  SOFIA.SMITH100@Yahoo.com ,2795208033,texas,2/13/2025,"$2,416.01"
+C0107,Ahmed,GARCIA,  AHMED.GARCIA107@Yahoo.com ,+1 376 240 5059,wa,2026-09-20,
+C0023,MARIA,smith,  MARIA.SMITH23@Yahoo.com ,7763022200,Washington,3/12/2025,2199.99
+C0083,noah,khan,noah.khan83@outlook.com,960.913.9850,Calif.,"Nov 4, 2025",
+C0105,MARIA,chen,  MARIA.CHEN105@Yahoo.com ,1-238-258-7041,california,"Feb 20, 2026",1164.84
+C0044,sofia,chen,sofia.chen44@outlook.com,(681) 219-9837,TX,11/3/2024,free
+C0070,Emma,lopez,emma.lopez70@gmail.com,3026502633,wa,"Dec 5, 2024",free
+C0091,Emma, o'brien,  EMMA.OBRIEN91@Yahoo.com ,1-433-623-6553,texas,26.12.2025,$791.62
+C0012,Emma,Johnson,emma.johnson12gmail.com,(813) 531-9005,TX,2025-04-02,free
+C0035,Emma,kim,emma.kim35@outlook.com,953-373-2389,TX,20.04.2024,"$2,019.31"
+C0086,James ,lopez,james.lopez86@gmail.com,1-438-536-3417,CA,18.03.2025, 288.17 
+C0027, priya,Johnson,priya.johnson27@gmail.com,578.796.3426,CA,6/26/2025,"$2,248.83"
